@@ -1,0 +1,39 @@
+﻿@model Expense
+ 
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<br />
+<br />
+<br />
+
+    <form asp-action="Edit" method="post" class="form-horizontal">
+
+        <input type="hidden" asp-for="ExpenseID" />
+        <div class="form-group form-group-lg">
+            <label asp-for="Name" class="control-label col-md-1 col-md-offset-4"></label>
+            <div><span asp-validation-for="Name" class="text-danger"></span></div>
+            <div class="col-md-3">
+                <input asp-for="Name" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group form-group-lg">
+            <label asp-for="Amount" class="control-label col-md-1 col-md-offset-4"></label>
+            <div><span asp-validation-for="Amount" class="text-danger"></span></div>
+            <div class="col-md-3">
+                <textarea asp-for="Amount" class="form-control" rows="1"></textarea>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3 col-md-offset-5">
+                @* Clicking Save button sends POST request, which is handled in AdminController under [HttpPost] attribute *@
+                <button class="btn btn-primary" type="submit">Save</button>
+                <a asp-action="Details" class="btn btn-secondary">Cancel</a>
+            </div>
+        </div>
+    </form>
+
+
+

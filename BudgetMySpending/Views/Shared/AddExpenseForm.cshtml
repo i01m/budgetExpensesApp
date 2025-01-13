@@ -1,0 +1,15 @@
+﻿@model Expense
+
+<form asp-controller="Home" asp-action="AddExpense" method="post" class="table-bordered form-padding">
+    <input type="hidden" asp-for="ExpenseID" />
+    <label asp-for="Name" style="color:red">Enter Your Expense Name</label>
+    <input asp-for="Name" class="form-control" />
+
+    <div style="padding-top:10px">
+        <label asp-for="Amount" style="color:red" class="label-top-padding">Enter Expense Amount</label>
+    </div>
+    <input asp-for="Amount" class="form-control" value=""/>
+    <div class="text-center button-out-top-padding">
+        <input class="btn btn-primary" type="submit" value="Add Expense" id="validationErrorButton"/>
+    </div>
+</form>

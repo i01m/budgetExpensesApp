@@ -1,0 +1,13 @@
+﻿@model Budget
+
+    <form asp-controller="Home" asp-action="Calculate" method="post" class="table-bordered form-padding">
+        <input type="hidden" asp-for="BudgetID" />
+        <label asp-for="Amount" style="color:green">Enter Your Budget</label>
+        <div class="inputContainer">            
+            <input asp-for="Amount" class="form-control" value="" id="displayErrorInput" />
+            <span id="error1"></span>
+        </div>
+        <div class="text-center button-out-top-padding">
+            <input class="btn btn-primary" type="submit" value="Calculate" />
+        </div>
+    </form> 

@@ -1,0 +1,105 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;    
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+.button-out-top-padding {
+    padding-top: 20px;
+}
+
+.label-top-padding {
+    padding-top: 15px;
+}
+
+.div-padding {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.form-padding {
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.navbar-custom {
+    background-color: cornflowerblue;
+}
+
+.navbar {
+    background-image: none;
+}
+
+#budget, #balance{
+    font-weight: 800;
+    color: green;
+}
+
+#expenses {
+    font-weight: 900;
+    color: red;
+}
+
+.detailedPageImageDimentions{
+    width: 35px;
+    height: 35px;
+}
+
+.table-data-font {
+    font-size: medium;
+    font-family: Arial;
+}
+
+#error1 {
+    position:relative;
+    display:none;
+    color: #555;
+    border-radius: 5px;
+    font-family: Tahoma,Geneva,Arial,sans-serif;
+    font-size: .8em;
+    padding: 5px 5px 5px 30px;
+    margin: 3px 0px 3px 0px;
+    background: #f5aca6 url('../images/cross.png') no-repeat 10px 50%;
+    border: 2px solid #f5aca6;
+}
+
+footer{
+    text-align:left;
+    bottom: 0;
+    width:100%;
+    position:fixed;
+}
+
+.inputContainer span {
+    float:none;
+}
