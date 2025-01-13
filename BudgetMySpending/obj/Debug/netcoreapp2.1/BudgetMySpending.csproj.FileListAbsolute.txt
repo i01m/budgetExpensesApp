@@ -1,0 +1,223 @@
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.deps.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.dev.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfoInputs.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.input.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.output.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorCoreGenerate.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddBudgetForm.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddExpenseForm.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ExpensesTotalAmountDisplay.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending - Copy\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.CopyComplete
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.deps.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.dev.json
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfoInputs.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.input.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.output.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorCoreGenerate.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddBudgetForm.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddExpenseForm.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.CopyComplete
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.CoreCompileInputs.cache
+C:\Project\DEVELOPMENT_VM\AspNetCoreProjects\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.genruntimeconfig.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.deps.json
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.json
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.runtimeconfig.dev.json
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.dll
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\bin\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfoInputs.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.AssemblyInfo.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.CoreCompileInputs.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorAssemblyInfo.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.input.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.TagHelpers.output.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorCoreGenerate.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddBudgetForm.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddExpenseForm.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.RazorTargetAssemblyInfo.cs
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.Views.pdb
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.dll
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.pdb
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.genruntimeconfig.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.CopyComplete
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.csproj.AssemblyReference.cache
+C:\Project\Development_Projects\Asp.net\AspNetCoreMvc\BudgetMySpending\BudgetMySpending\obj\Debug\netcoreapp2.1\BudgetMySpending.GeneratedMSBuildEditorConfig.editorconfig
